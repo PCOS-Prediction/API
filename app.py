@@ -27,4 +27,4 @@ def predict_api():
 
 
 if __name__ == "__main__":
-    app.run(host="192.168.0.101", port=5000)
+    app.run(host="<YOUR-HOST-URL>", port=5000)
